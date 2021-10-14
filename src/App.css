@@ -43,6 +43,9 @@ li {
 }
 
 /*HOME PAGE*/
+.heading-text {
+  font-size: 1.25rem;
+}
 .title-text {
   margin-top: 100px;
 }

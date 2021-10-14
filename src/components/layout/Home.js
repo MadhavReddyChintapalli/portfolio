@@ -7,7 +7,7 @@ function Home() {
         <div className='col-lg-6 title-text'>
           <h1>I'm Madhav Reddy Chintapalli.</h1>
           <br />
-          <p>
+          <p className='heading-text'>
             I'm a Full Stack Web Developer. I specialize in designing,
             developing, testing and deploying web applications. I have 2 years
             of experience as a Full Stack Developer in Web Application
