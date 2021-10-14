@@ -22,7 +22,7 @@
 }
 
 .footer-container-fluid {
-  padding: 3% 7%;
+  padding: 3% 7% 1% 7%;
 }
 
 .title-text {
@@ -55,11 +55,7 @@ li {
   line-height: 2;
 }
 
-.bottom-container-fluid {
-  padding: 3% 7%;
-}
-
 .footer-text {
-  font-size: 12px;
+  font-size: 14px;
   text-align: center;
 }
