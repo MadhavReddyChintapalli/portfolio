@@ -2,7 +2,7 @@ import React from 'react';
 
 function Contact() {
   return (
-    <div className='footer-container-fluid colored-section' id='contact'>
+    <div className='container-fluid' id='contact'>
       <h2>Contact</h2> <br />
       <div className='row'>
         <div className='col-lg-6'>
@@ -30,10 +30,6 @@ function Contact() {
           <p>https://fast-plateau-72751.herokuapp.com/</p>
         </div>
       </div>
-      <br />
-      <p className='footer-text'>
-        @Designed & Developed by Madhav Reddy Chintapalli
-      </p>
     </div>
   );
 }

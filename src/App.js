@@ -6,6 +6,8 @@ import Skills from './components/layout/Skills';
 import Experience from './components/layout/Experience';
 import Education from './components/layout/Education';
 import Contact from './components/layout/Contact';
+import Projects from './components/layout/Projects';
+import Footer from './components/layout/Footer';
 function App() {
   return (
     <div>
@@ -15,7 +17,9 @@ function App() {
       <Skills />
       <Experience />
       <Education />
+      <Projects />
       <Contact />
+      <Footer />
     </div>
   );
 }
