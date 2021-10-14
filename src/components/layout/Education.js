@@ -11,6 +11,7 @@ function Education() {
       <span>Sep 2019 - Apr 2021</span>
       <br />
       <br />
+      <br />
       <h4>Bachelor of Technology, Electronics & Communication Engg</h4>
       <span>Geethanjali College of Engineering and Technology, India</span>
       <br />

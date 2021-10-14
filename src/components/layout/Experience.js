@@ -34,6 +34,7 @@ function Experience() {
           control.
         </li>
       </ul>
+      <br />
       <h4>Web Developer</h4>
       <span>Chistle IT Solutions Pvt Ltd, Hyderabad, India</span>
       <br />

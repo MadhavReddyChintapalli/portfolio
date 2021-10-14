@@ -8,9 +8,11 @@ function Contact() {
         <div className='col-lg-6'>
           <h4>Email</h4>
           <i class='bi bi-envelope'></i>
+          <br />
           <p>chintapallimadhav@gmail.com</p>
           <h4>Phone</h4>
           <i class='bi bi-telephone'></i>
+          <br />
           <p>+1 6475458423</p>
           <h4>Address</h4>
           <i class='bi bi-geo-alt'></i>

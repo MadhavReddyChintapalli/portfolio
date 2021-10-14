@@ -5,6 +5,9 @@ function About() {
     <div className='container-fluid colored-section' id='about'>
       <div className='row'>
         <div className='col-lg-6'>
+          <br />
+          <br />
+          <br />
           <img
             className='about-image'
             src='images/madhav.png'
